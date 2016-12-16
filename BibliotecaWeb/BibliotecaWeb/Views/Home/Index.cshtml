@@ -1,0 +1,90 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<!--- Carroza -->
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        @*role="listbox">*@
+        <div class="item active">
+            <img src="~/Content/imgcarro/libro1.jpg" alt="libro1"  class ="center-block">
+            <div class="carousel-caption">
+                <h1>Prestamos</h1>
+                <p>Genere prestamos para los alumos </p>
+                <p><a class="btn btn-lg btn-success" href="~/Views/Prestamos/Create.cshtml" role="button">Crear ahora!</a></p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Content/imgcarro/libro.jpg" alt="libro2" class ="center-block">
+            <div class="carousel-caption">
+                <h1>Alumnos</h1>
+                <p>Registre alumnos nuevos </p>
+                <p><a class="btn btn-lg btn-success" href="~/Views/Alumnos/Create.cshtml" role="button">Registrar ahora!</a></p>
+            </div>
+        </div>
+        <div class="item">
+                <img src="~/Content/imgcarro/libropi.jpg" alt="libro3" class="center-block">
+                <div class="carousel-caption">
+                    <h1>Libros</h1>
+                    <p>Ingrese nuevos libros </p>
+                    <p><a class="btn btn-lg btn-success" href="~/Views/Libros/Create.cshtml" role="button">Agregar ahora!</a></p>
+                </div>
+            </div>
+    </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+
+<!-- Carroza -->
+
+
+
+
+<div class="jumbotron">
+    <h1>Web app Biblioteca </h1>
+    <p class="lead">Esta aplicación web sirve para el registro de alumnos a la biblioteca virtual,
+                    ingresar nuevos libros y generar prestamos a los alumnos registrados</p>
+    @*<p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>*@
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <img class="img-circle"
+           <img src="~/Content/estudiante.png" alt="estudiante" width="140" height="140">
+        <h2>Alumnos</h2>
+        <p>
+            Registrar alumnos ver el listado y eliminar los mismos.
+        </p>
+        <p><a class="btn btn-primary btn-lg" @Html.ActionLink("Ir »","Index","Alumnos")</a></p>
+    </div>
+    <div class="col-md-4">
+        <img class="img-circle" 
+              <img src="~/Content/libro.png" alt="libro" width="140" height="140">
+        <h2>Libros</h2>
+        <p>Agregar nuevos libros y ver el listado de los mismos</p>
+        <p><a class="btn btn-primary btn-lg" @Html.ActionLink("Ir »","Index","Libros")</a></p>
+    </div>
+    <div class="col-md-4">
+        <img class="img-circle"
+              <img src="~/Content/basede.png" alt="basede" width="140" height="140">
+        <h2>Prestamos</h2>
+        <p>Realizar nuevos prestamos de los libros a los alumnos</p>
+        <p><a class="btn btn-primary btn-lg" @Html.ActionLink("Ir »","Index","Prestamos")</a></p>
+    </div>
+</div>

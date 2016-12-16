@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BibliotecadbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Alumnos">
+    <Key>
+      <PropertyRef Name="NroLector" />
+    </Key>
+    <Property Name="NroLector" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Legajo" Type="Int32" Nullable="false" />
+    <Property Name="Apellido" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DNI" Type="Int32" Nullable="false" />
+    <Property Name="Tel" Type="Int32" Nullable="false" />
+    <Property Name="Domicilio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fecha_Socio" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Prestamos" Relationship="Self.FK_Prestamos_Alumnos" FromRole="Alumnos" ToRole="Prestamos" />
+  </EntityType>
+  <EntityType Name="Libros">
+    <Key>
+      <PropertyRef Name="IDLibro" />
+    </Key>
+    <Property Name="IDLibro" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ISBN" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Autor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Editorial" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Prestamos" Relationship="Self.FK_Prestamos_Libros" FromRole="Libros" ToRole="Prestamos" />
+  </EntityType>
+  <EntityType Name="Prestamos">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDLibro" Type="Int32" Nullable="false" />
+    <Property Name="NroLector" Type="Int32" Nullable="false" />
+    <Property Name="Fecha_Prestamo" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Fecha_Devo" Type="DateTime" Precision="0" />
+    <Property Name="Fecha_Estimada" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Alumnos" Relationship="Self.FK_Prestamos_Alumnos" FromRole="Prestamos" ToRole="Alumnos" />
+    <NavigationProperty Name="Libros" Relationship="Self.FK_Prestamos_Libros" FromRole="Prestamos" ToRole="Libros" />
+  </EntityType>
+  <Association Name="FK_Prestamos_Alumnos">
+    <End Role="Alumnos" Type="Self.Alumnos" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumnos">
+        <PropertyRef Name="NroLector" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="NroLector" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prestamos_Libros">
+    <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libros">
+        <PropertyRef Name="IDLibro" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="IDLibro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BibliotecadbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Alumnos" EntityType="Self.Alumnos" />
+    <EntitySet Name="Libros" EntityType="Self.Libros" />
+    <EntitySet Name="Prestamos" EntityType="Self.Prestamos" />
+    <AssociationSet Name="FK_Prestamos_Alumnos" Association="Self.FK_Prestamos_Alumnos">
+      <End Role="Alumnos" EntitySet="Alumnos" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prestamos_Libros" Association="Self.FK_Prestamos_Libros">
+      <End Role="Libros" EntitySet="Libros" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

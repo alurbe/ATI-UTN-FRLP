@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BibliotecaWeb.Models.Libros>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ingresar libro</h2>
+
+<p>
+    <a class="btn btn-success" @Html.ActionLink("Añadir nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Autor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Editorial)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ISBN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Autor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Editorial)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            <a class="btn btn-primary" @Html.ActionLink("Editar", "Edit", new { id = item.IDLibro })
+            @*<a class="btn-primary" @Html.ActionLink("Details", "Details", new { id = item.IDLibro })*@
+            <a class="btn btn-danger" @Html.ActionLink("Eliminar", "Delete", new { id = item.IDLibro })
+        </td>
+    </tr>
+}
+
+</table>

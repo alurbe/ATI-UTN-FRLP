@@ -1,0 +1,64 @@
+﻿@model BibliotecaWeb.Models.Prestamos
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Devolución</h2>
+
+<h3>Desea devolver el libro?</h3>
+<div>
+    <h4>Prestamos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Prestamo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Prestamo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Devo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Devo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Estimada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Estimada)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Alumnos.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Alumnos.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Libros.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Libros.Nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Devolver" class="btn btn-success" /> |
+            <a class="btn btn-primary" @Html.ActionLink("Volver a la lista", "Index")
+        </div>
+    }
+</div>

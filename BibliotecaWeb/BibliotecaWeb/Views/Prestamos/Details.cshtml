@@ -1,0 +1,58 @@
+﻿@model BibliotecaWeb.Models.Prestamos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Prestamos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Prestamo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Prestamo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Devo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Devo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Estimada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Estimada)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Alumnos.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Alumnos.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Libros.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Libros.Nombre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a class="btn-warning" @Html.ActionLink("Editar", "Edit", new { id = Model.Codigo }) |
+    <a class="btn-primary" @Html.ActionLink("Volver a la lista", "Index")
+</p>

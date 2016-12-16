@@ -1,0 +1,207 @@
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\csc.exe
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\vbc.exe
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll.config
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.pdb
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Owin.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\WebGrease.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.dll
+C:\Users\Alejandro\OneDrive\visualstudio\POSTA\Biblioteca2.3.2\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\csc.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll.config
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\WebGrease.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.3\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\csc.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll.config
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\BibliotecaWeb.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Owin.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\WebGrease.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.dll
+C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\Biblioteca2.3.4\BibliotecaWeb\BibliotecaWeb\obj\Debug\BibliotecaWeb.pdb

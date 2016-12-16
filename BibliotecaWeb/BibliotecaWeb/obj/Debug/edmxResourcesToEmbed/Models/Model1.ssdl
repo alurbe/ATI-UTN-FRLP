@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BibliotecadbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Alumnos">
+    <Key>
+      <PropertyRef Name="NroLector" />
+    </Key>
+    <Property Name="NroLector" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Legajo" Type="int" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DNI" Type="int" Nullable="false" />
+    <Property Name="Tel" Type="int" Nullable="false" />
+    <Property Name="Domicilio" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fecha_Socio" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Libros">
+    <Key>
+      <PropertyRef Name="IDLibro" />
+    </Key>
+    <Property Name="IDLibro" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ISBN" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Autor" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Editorial" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fecha" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Prestamos">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDLibro" Type="int" Nullable="false" />
+    <Property Name="NroLector" Type="int" Nullable="false" />
+    <Property Name="Fecha_Prestamo" Type="date" Nullable="false" />
+    <Property Name="Fecha_Devo" Type="date" />
+    <Property Name="Fecha_Estimada" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Prestamos_Alumnos">
+    <End Role="Alumnos" Type="Self.Alumnos" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumnos">
+        <PropertyRef Name="NroLector" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="NroLector" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prestamos_Libros">
+    <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libros">
+        <PropertyRef Name="IDLibro" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="IDLibro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BibliotecadbModelStoreContainer">
+    <EntitySet Name="Alumnos" EntityType="Self.Alumnos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Libros" EntityType="Self.Libros" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Prestamos" EntityType="Self.Prestamos" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Prestamos_Alumnos" Association="Self.FK_Prestamos_Alumnos">
+      <End Role="Alumnos" EntitySet="Alumnos" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prestamos_Libros" Association="Self.FK_Prestamos_Libros">
+      <End Role="Libros" EntitySet="Libros" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
